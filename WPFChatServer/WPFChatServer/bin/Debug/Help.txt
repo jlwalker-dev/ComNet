@@ -1,0 +1,15 @@
+Help for Chat Server
+---------------------
+/NAMES - List nicknames of all connected users and time of 
+	 their last message in the format:
+	    Name @ HH:MM
+
+/NICK  - Change nickname
+	 Usage: /Nick JacK
+	 Will change nickname to JacK
+
+/MSG   - Send a private message
+	 Usage: /MSG JacK Hello there!
+	 Send the private message "Hello there!" to JacK
+
+/HELP  - Display this help message

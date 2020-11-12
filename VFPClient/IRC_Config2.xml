@@ -1,0 +1,13 @@
+<Table>
+  <Channel>
+    <Type>ComIRC</Type>
+  </Channel>
+  <Properties>
+    <Server>irc.dal.net</Server>
+    <UserName>NickIRCDev2</UserName>
+    <Debug>8</Debug>
+    <Channel>Test1234</Channel>
+    <Port>6667</Port>
+    <Encrypt>KEY:Livingston</Encrypt>
+  </Properties>
+</Table>

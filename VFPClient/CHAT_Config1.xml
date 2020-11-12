@@ -1,0 +1,14 @@
+<Table>
+  <Channel>
+    <Type>ComCHAT</Type>
+  </Channel>
+  <Properties>
+    <Server>192.168.1.176</Server>
+    <UserName>Dev3</UserName>
+    <Debug>9</Debug>
+    <Channel>Test1234</Channel>
+    <PortIn>6667</PortIn>
+    <PortOut>6668</PortOut>
+    <Encrypt>KEY:Livingston</Encrypt>
+  </Properties>
+</Table>
